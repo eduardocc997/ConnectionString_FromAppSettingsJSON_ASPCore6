@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00a6505b-7d7d-4583-97eb-fce9ce7b559b": {
+      "ProjectGuid": "00a6505b-7d7d-4583-97eb-fce9ce7b559b",
+      "DisplayName": "MotosAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
