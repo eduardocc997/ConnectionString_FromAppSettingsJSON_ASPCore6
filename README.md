@@ -1,8 +1,4 @@
 # ConnectionString_FromAppSettingsJSON_ASPCore6
-Prerequisitos:
-  -Instalar *Microsoft.Extensions.Configuration* desde NuGet
-  
-Código:
 
 # Supongamos que nuestro appsettings.json se ve así:
 
@@ -22,6 +18,9 @@ Código:
 
 # En C# usaremos lo siguiente para leer la configuración:
 
+Prerequisitos:
+  -Instalar *Microsoft.Extensions.Configuration* desde NuGet
+  
 private readonly IConfiguration Configuration;
 
 public ConeController(IConfiguration configuration)
